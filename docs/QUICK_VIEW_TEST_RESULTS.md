@@ -1,24 +1,21 @@
-INVARIANCE VERIFIED — ZERO ENERGY DRIFT
-==========================================================
-      ONTOLOGICAL FRAMEWORK INVARIANCE VERIFICATION       
-==========================================================
-Context Track:               Cauchy Stress Tensor Transformation
-Observational Focus:         "DSCOVR L1 Real-Time Solar Wind Ingest — Interplanetary Magnetic Field & Proton Bulk Velocity Dynamics."
 
-6-Vector Input State (v):
-[4.20, -3.80, 6.10, -412.50, 18.30, -12.70]
+# QUICK VIEW TEST RESULTS
+### Step-by-Step Empirical Ingestion & Ontological Substrate Verification
 
-Constructed Tensor Field T_ij (6x6 Outer Product Preview):
-  [ 17.640, -15.960,  25.620, ...]
-  [-15.960,  14.440, -23.180, ...]
-  [ 25.620, -23.180,  37.210, ...]
-  ... (6x6 continuum field matrix generated)
+> **Document Purpose:** This document provides an explicit, step-by-step breakdown of how raw empirical space weather data (from NOAA’s DSCOVR Satellite at L1) is ingested, reframed, and verified through the **6-Vector Substrate Framework**. Each step contrasts the **Before (Standard Empirical State)** with the **After (Substrate Field State)**.
 
-----------------------------------------------------------
-Initial Scalar Energy:       170721.72000000
-Reconstructed Field Energy:  170721.72000000 (Tensor Trace)
-Mathematical Drift:          0.00e+0
-----------------------------------------------------------
-RESULT: PASSED — Conservation Invariance Confirmed.
-Anchor: Noether's Theorem satisfied (Zero energy loss).
-==========================================================
+---
+
+## Interactive Links & Public Endpoints
+
+* **Live Matrix Calculator Web Portal:** [https://kbynum.github.io/6-vector-calculator](https://kbynum.github.io/6-vector-calculator)
+* **Project Documentation & Repository:** [https://github.com/kbynum/6-vector-theory](https://github.com/kbynum/6-vector-theory)
+
+---
+
+## STEP 1: Raw Data Ingestion & State Vector Mapping
+
+### Before (Raw Empirical Ingest)
+Raw unformatted payload copied directly from telemetry:
+```text
+4.20, -3.80, 6.10, -412.50, 18.30, -12.70
