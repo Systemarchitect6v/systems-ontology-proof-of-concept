@@ -41,3 +41,22 @@ This repository is structured to provide clear, traceable evidence of methodolog
 1. **Trace the Annotations:** Read [`ONTOLOGICAL_MAPPING.md`](./ONTOLOGICAL_MAPPING.md) to inspect how the code mirrors established theoretical constraints.
 2. **Review Mathematical Anchors:** Examine [`docs/mathematical_bounds.md`](./docs/mathematical_bounds.md) for formal proofs.
 3. **Execute Invariance Suite:** Run `python3 examples/proof_invariance.py` to observe real-time conservation verification.
+
+## Quickstart & Local Verification
+
+To run the automated invariance verification script locally or in GitHub Codespaces:
+
+```bash
+# 1. Install dependencies
+pip install -r requirements.txt
+
+# 2. Execute the invariance suite
+python3 examples/proof_invariance.py
+
+
+
+
+
+
+
+
