@@ -1,6 +1,7 @@
+<!-- Row 1 & 2 Badge Header -->
 <a href="https://opensource.org/licenses/MIT" target="_blank"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT"></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Domain-Theoretical%20Physics%20%26%20Ontology-purple.svg" alt="Domain: Theoretical Physics & Systems Ontology"></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Status-Academic%20Position%20Paper-green.svg" alt="Status: Academic Position Paper"></a>
+<a href="https://systemarchitect6v.github.io/Continuous-Medium-Navigation/" target="_blank"><img src="https://img.shields.io/badge/Interface-Interactive%20Portal-blueviolet.svg" alt="Interactive Portal"></a>
+<a href="https://github.com/Systemarchitect6v/Continuous-Medium-Navigation/blob/main/docs/POSITION_PAPER.md" target="_blank"><img src="https://img.shields.io/badge/Status-Academic%20Position%20Paper-green.svg" alt="Status: Academic Position Paper"></a>
 <a href="https://github.com/Systemarchitect6v/Continuous-Medium-Navigation/blob/main/docs/mathematical_proof.md" target="_blank"><img src="https://img.shields.io/badge/Math-6D%20Tensor%20%20%CE%A8(6v)-orange.svg" alt="Mathematics: Substrate 6D Tensor"></a>
 # The 6-Vector Ontological Framework: Epistemological & Substrate Mechanics
 
