@@ -1,6 +1,6 @@
 <a href="https://github.com/YOUR-USERNAME/YOUR-MAIN-REPO" target="_blank">Abstract</a> | 
 <a href="https://github.com/YOUR-USERNAME/FOUNDATION-REPO" target="_blank">Conceptual Foundation</a> | 
-<a href="https://github.com/YOUR-USERNAME/PROOFS-REPO" target="_blank">Mathematical Proofs</a> | 
+<a href="https://github.com/Systemarchitect6v/Continuous-Medium-Navigation/blob/main/docs/mathematical_proof.md" target="_blank">Mathematical Proof</a> 
 <a href="https://opensource.org/licenses/MIT" target="_blank">License: MIT</a>
 # The 6-Vector Ontological Framework: Epistemological & Substrate Mechanics
 
