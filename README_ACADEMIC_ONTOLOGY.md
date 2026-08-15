@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Domain: Theoretical Physics & Systems Ontology](https://img.shields.io/badge/Domain-Theoretical%20Physics%20%26%20Ontology-purple.svg)](#)
 [![Status: Academic Position Paper](https://img.shields.io/badge/Status-Academic%20Position%20Paper-green.svg)](#)
-[![Mathematics: Substrate 6D Tensor](https://img.shields.io/badge/Math-6D%20Tensor%20%20%CE%A8(6v)-orange.svg)](#)
+[![Mathematics: Substrate 6D Tensor](https://img.shields.io/badge/Math-6D%20Tensor%20%20%CE%A8(6v)-orange.svg)](https://github.com/Systemarchitect6v/Continuous-Medium-Navigation/blob/main/docs/mathematical_proof.md)
 
 ---
 
