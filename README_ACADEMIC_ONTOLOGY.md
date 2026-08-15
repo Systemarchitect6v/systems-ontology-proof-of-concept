@@ -1,3 +1,7 @@
+<a href="https://github.com/YOUR-USERNAME/YOUR-MAIN-REPO" target="_blank">Abstract</a> | 
+<a href="https://github.com/YOUR-USERNAME/FOUNDATION-REPO" target="_blank">Conceptual Foundation</a> | 
+<a href="https://github.com/YOUR-USERNAME/PROOFS-REPO" target="_blank">Mathematical Proofs</a> | 
+<a href="https://opensource.org/licenses/MIT" target="_blank">License: MIT</a>
 # The 6-Vector Ontological Framework: Epistemological & Substrate Mechanics
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
