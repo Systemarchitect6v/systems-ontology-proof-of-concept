@@ -1,4 +1,4 @@
-> **Framework Navigation:** 📐 [6-Vector Model (Resonance-Matrix)](https://github.com/KevinBynum/Resonance-Matrix) | 🧭 [Continuous-Medium-Navigation](https://github.com/KevinBynum/Continuous-Medium-Navigation)
+> **Framework Navigation:** 📐 [6-Vector Model (Resonance-Matrix)](https://github.com/Systemarchitect6v/Resonance-Matrix) | 🧭 [Continuous-Medium-Navigation](https://github.com/KevinBynum/Continuous-Medium-Navigation)
 ---
 # systems-ontology-proof-of-concept
 A functional demonstration of systems ontology: Reframing established physics and engineering concepts within strict mathematical constraints.
